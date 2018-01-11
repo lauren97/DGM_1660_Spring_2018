@@ -1,0 +1,2 @@
+This repository is for school purposes, such as homework and projects.
+It is also to be used as a backup in case of computer failure.

@@ -1,0 +1,19 @@
+---------
+Transform
+  Position in Space
+---------
+Transforms: Click on label. Move cursor to viewport. Middle Click (mouse wheel). Move left and right to adjust.
+Low Resolution: low polygon count.
+Highligted in yellow means that is the axis I am manipulating.
+------
+SHAPES
+  Geometry
+------
+Point/Vertex = single point in space (x,y,z)
+Edge = a straight line connecting two vertices
+Face/Polygon = Three or more connected vertices
+	Tri = most basic polygon.
+	Quad = is the standard for today.
+	nGon = any polygon with more than 4 edges.
++__________________________________________________
+Objects = Multiple faces connected together. 

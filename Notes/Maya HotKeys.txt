@@ -1,0 +1,24 @@
+MOST USED HOTKEYS:
+---------------
+Ctrl+A = ChannelBox/Attribute Editor
+Space = Tottle Viewports
+
+Alt+LMB = Rotate
+Alt+MMB = Pan
+Alt+RMP = Zoom
+
+F = Frame Select
+
+Q = Select
+W = Translate/Move
+E = Rotate
+R = Scale Tool
+
+Ctrl+D = Duplicate.
+---------------
+Misc
+---------------
+Alt+B = Change Backgrounds
+Ctrl+B = Paints Effects Brush Settings
+
+

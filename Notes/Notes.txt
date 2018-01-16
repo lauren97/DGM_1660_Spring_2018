@@ -1,3 +1,10 @@
+----------
+SAVE FILES
+----------
+File > Save Scene As > MAYA ASCII
+File > Export All > FPX
+Windows > Settings and Preferances > Plugin Manager
+Upload to SketchFab and submit url on Canvas
 ---------
 Transform
   Position in Space

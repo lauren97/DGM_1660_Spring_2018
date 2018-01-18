@@ -14,6 +14,8 @@ W = Translate/Move
 E = Rotate
 R = Scale Tool
 
+G = Last Used Tool
+
 Ctrl+D = Duplicate.
 B = Soft Select
 Hold B+LMB Drag = Soft Select size adjust

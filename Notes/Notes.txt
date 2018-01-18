@@ -1,3 +1,4 @@
+DON'T START FROM A SPHERE!
 ----------
 SAVE FILES
 ----------
@@ -24,3 +25,8 @@ Face/Polygon = Three or more connected vertices
 	nGon = any polygon with more than 4 edges.
 +__________________________________________________
 Objects = Multiple faces connected together. 
+
+------------
+delete edge
+------------
+shift + rightclick Delete Edge.

@@ -24,5 +24,11 @@ Misc
 ---------------
 Alt+B = Change Backgrounds
 Ctrl+B = Paints Effects Brush Settings
+----
+Snap
+----
+X = Snap to Grid
+C = Snap to Curve
+V = Snap to Point/Vertex
 
 

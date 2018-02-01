@@ -30,3 +30,7 @@ Objects = Multiple faces connected together.
 delete edge
 ------------
 shift + rightclick Delete Edge.
+------------------------
+Freezing Transformations
+------------------------
+Select > Modify > Freeze Transformations

@@ -34,3 +34,8 @@ shift + rightclick Delete Edge.
 Freezing Transformations
 ------------------------
 Select > Modify > Freeze Transformations
+--------------
+Changing Pivot
+--------------
+Hold D Key and adjust pivot.
+Modify > Center Pivot

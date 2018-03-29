@@ -1,0 +1,4 @@
+Diffuse
+Color
+Metal
+Height
